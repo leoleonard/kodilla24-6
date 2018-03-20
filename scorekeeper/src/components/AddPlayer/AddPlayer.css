@@ -1,5 +1,15 @@
 .AddPlayer {
-
+    width: 350px;
+    margin: 0 auto;
+    padding: 10px;
+    justify-content: center;
+    display: flex;
+    font-size: 30px;
+    font-weight: bold;
+    line-height: 40px;
+    border-radius: 10px;
+    background: rgb(23, 171, 197);
+    border: 1px solid #fff;
 }
 
 .AddPlayer__input {
